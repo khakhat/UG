@@ -1,1 +1,1 @@
-# UG
+Unused software is taking more space on your hard drive, slowing down your computer and increasing the security risks. Uninstall programs which you don't use anymore to free some space on your computer and speed up Windows boot time. A lot of people think that "No harm in leaving any extra software installed". But over time you will notice overall performance degradation. So keeping a lot of unused programs installed on the PC isn't a good idea.
